@@ -6,8 +6,8 @@ import android.content.Context
 import android.content.pm.PackageManager
 import android.location.LocationManager
 import android.os.Looper
-import androidx.annotation.RequiresPermission
-import androidx.core.content.ContextCompat
+import android.support.annotation.RequiresPermission
+import android.support.v4.content.ContextCompat
 import com.android.permissionlibrary.callbacks.PermissionCallback
 import com.android.permissionlibrary.managers.PermissionManager
 import com.android.trackinglibrary.callbacks.TrackingCallback

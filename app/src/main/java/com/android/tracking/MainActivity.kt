@@ -3,8 +3,8 @@ package com.android.tracking
 import android.annotation.SuppressLint
 import android.location.Location
 import android.os.Bundle
+import android.support.v7.app.AppCompatActivity
 import android.util.Log
-import androidx.appcompat.app.AppCompatActivity
 import com.android.trackinglibrary.callbacks.TrackingCallback
 import com.android.trackinglibrary.managers.TrackingManager
 
